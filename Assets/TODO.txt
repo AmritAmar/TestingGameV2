@@ -1,0 +1,19 @@
+TODO:
+
+- Buildings:
+	- nxm buildings placement/ghost buildings
+	- Rotate while placing buildings
+	- Factories
+	- Variable Roads
+	- Faster Tick Rate with forced wait times?
+	
+- UI:
+	- Delete Buildings (Delete Flan assiciated with House lol, as well as update GameManager)
+	- Click brings up UI Menu with deets
+
+- Flan AI:
+	- Pick Up Stuff
+	- Drop Off Stuff
+	
+
+	
